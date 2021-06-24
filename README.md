@@ -3,3 +3,4 @@
 
 ### 개발 환경
 * Python 3.9 in Windows10
+* pandas, numpy, matplotlib
