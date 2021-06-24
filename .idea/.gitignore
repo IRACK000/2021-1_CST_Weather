@@ -1,7 +1,7 @@
 # 디폴트 무시된 파일
 /shelf/
 /workspace.xml
-**/__pycache__
+**/__pycache__/
 # 데이터 소스의 로컬 스토리지가 파일을 무시했습니다
 /dataSources/
 /dataSources.local.xml
